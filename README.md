@@ -2,6 +2,7 @@
 Mỗi lesson tương ứng với khoảng thời gian 2 ngày (5 tiếng).
 Khóa học hướng tới việc xây dựng các ứng dụng thực tế, mỗi phần đều có assignment để người học nghiên cứu.
 
+---
 
 ## Lesson 1: Building app basic with React (thời gian 5 tiếng)
 __*Mục đích*:__ Cung cấp các kiến thức cơ bản về React, JSX, babel
@@ -13,8 +14,6 @@ __*Mục đích*:__ Cung cấp các kiến thức cơ bản về React, JSX, bab
 * Remote servers &  react lifecycle methods - Xử lý dữ liệu tương tác với server
 
 *Project:* Xây dựng ứng dụng quản lý sản phẩm cơ bản với React
-
----
 
 #### Slide 1.1 - Get started with react Component (30 phút)
 - What's react ? Why react ? Who's use react ? React ecosystem.
@@ -33,8 +32,6 @@ __*Mục đích*:__ Cung cấp các kiến thức cơ bản về React, JSX, bab
 - Rendering Our First React Component
 - Application react structure (api, components, ..)
 - Summary in slide
-
----
 
 #### Slide 1.2 - Understanding JSX (30 phút)
 - Difference naming React Component  & HTML native elements
